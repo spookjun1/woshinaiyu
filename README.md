@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Jovanotti, dedica social per l'anniversario di matrimonio
 
-You can use the [editor on GitHub](https://github.com/spookjun1/woshinaiyu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+YJovanotti, dedica social per l'anniversario di matrimonio
+Questo non dovrebbe essere nei media.
+"Sei settembre 2008" e una frase del testo di una canzone a lei dedicata usata come hashtag: "Complici di un piano rivoluzionario". È il testo, che accompagna la foto di un bacio, con cui Jovanotti ha voluto festeggiare e ricordare sul suo profilo Instagram l'anniversario di matrimonio con la moglie Francesca Valiani. Sposata 11 anni fa con una cerimonia nella Cattedrale Santa Maria Nuova di Cortona, nell'Aretino.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spookjun1/woshinaiyu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+La coppia, insieme da oltre vent'anni, ha anche una figlia, Teresa. I tre sono apparsi in un raro scatto di famiglia in un selfie in ascensore postato alcuni mesi fa sul profilo social del cantante. Che oggi ha voluto condividere con i suoi follower il ricordo di quel giorno speciale, pubblicando una foto con la moglie scattata forse durante uno dei concerti del Jova Beach Tour, con cui quest'estate Jovanotti ha fatto tappa sulle spiagge italiane. Un'immagine che l'artista ha scelto di accompagnare con una frase di "Chiaro di Luna": l'ultima (in ordine di tempo) di una serie di canzoni dedicate alla moglie Francesca.
